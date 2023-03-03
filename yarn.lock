@@ -6576,10 +6576,10 @@ proxy-from-env@1.1.0:
   resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.1.0.tgz#e102f16ca355424865755d2c9e8ea4f24d58c3e2"
   integrity sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==
 
-ps-list@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/ps-list/-/ps-list-8.0.0.tgz#ee622c04a16ac0b29be65d7d920c1fb36c8383d4"
-  integrity sha512-rBBL6jp5Ccc5fy7p1Os5wDkXlJm5PeLCP2mVz1wLqEtKGo+d19oDApqVbePJoOxNlWeaxJxe28qahc3KWj9ePg==
+ps-list@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/ps-list/-/ps-list-8.1.0.tgz#aded36339500cd929f1425ece9bf58ac6d3a213e"
+  integrity sha512-NoGBqJe7Ou3kfQxEvDzDyKGAyEgwIuD3YrfXinjcCmBRv0hTld0Xb71hrXvtsNPj7HSFATfemvzB8PPJtq6Yag==
 
 psl@^1.1.28, psl@^1.1.33:
   version "1.8.0"
